@@ -1,7 +1,7 @@
 ---
 title: "도커 컨테이너 1 - 컨테이너의 등장 및 도커의 정의"
 date: 2024-07-15 22:45:00 +0900
-categories: [Docker]
+categories: [Development, Docker]
 tags: [TIL2024]
 math: true
 mermaid: true

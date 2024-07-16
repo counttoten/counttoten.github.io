@@ -15,3 +15,10 @@ Since 2024.07
   - Post about something I learned every day.
 - NEWZET
   - A cross platform app built with supabase + deno + flutter
+
+
+<!-- 
+### CMD for me
+- Local Serve
+  - bundle exec jekyll serve
+-->
