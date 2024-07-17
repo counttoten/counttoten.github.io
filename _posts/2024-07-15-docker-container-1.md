@@ -15,7 +15,7 @@ mermaid: true
   - 개발자간의 환경 불일치가 발생하면 각자 어떻게든 해결했어야 했다.
   - 배포하고 운영하는 상황에서도 여러 버그가 발생하였다.
   - (이 문제를 docker가 해결하면서 아래와 같은 docker meme이 생기게 되었다고 한다)
-  - ![middle-img](../assets/img/post-images/docker-1.png "docker meme")
+  - ![middle-img](../assets/post-images/docker-1.png "docker meme")
 2. 애플리케이션 간의 격리
   - 여러 애플리케이션이 동일한 운영 체제에서 실행될 때 충돌이 발생하였다.
   - 각 애플리케이션 별로 특정 자바 버전을 필요로 하는 경우를 예시로 들 수 있다.
@@ -28,7 +28,7 @@ mermaid: true
 ## 도커란?
 Docker는 Linux 커널의 컨테이너 기술을 구현하는 플랫폼이다. 애플리케이션과 애플리케이션을 완전히 격리하는 것을 목표로 한다.
 
-![](../assets/img/post-images/docker-2.png)
+![](../assets/post-images/docker-2.png)
 
 ### namespace
 네임스페이스는 Linux 커널 기능으로, global한 시스템 자원들을 감싸 네임스페이스 내의 프로세스들이 마치 자신만의 독립된 인스턴스를 가지고 있는 것처럼 보이게 한다.
