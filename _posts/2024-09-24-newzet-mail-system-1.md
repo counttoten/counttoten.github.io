@@ -6,10 +6,10 @@ tags: [뉴젯, Gmail API, 프로젝트]
 ---
 
 <div style="display: flex; justify-content: space-between; gap: 10px">
-  <img src="../assets/post-images/newzet/newzet-app-store-1.png" />
-  <img src="../assets/post-images/newzet/newzet-app-store-2.png" />
-  <img src="../assets/post-images/newzet/newzet-app-store-3.png" />
-  <img src="../assets/post-images/newzet/newzet-app-store-4.png" />
+  <img alt="앱 스토어 이미지 1" src="../assets/post-images/newzet/newzet-app-store-1.png" />
+  <img alt="앱 스토어 이미지 2" src="../assets/post-images/newzet/newzet-app-store-2.png" />
+  <img alt="앱 스토어 이미지 3" src="../assets/post-images/newzet/newzet-app-store-3.png" />
+  <img alt="앱 스토어 이미지 4" src="../assets/post-images/newzet/newzet-app-store-4.png" />
 </div>
 
 > 💌 복잡한 메일함에서 나와 뉴스레터를 편하게 관리할 수 있게 해주는 서비스, '뉴젯'은 현재 [구글 플레이스토어](https://play.google.com/store/apps/details?id=com.team3to1.newzet), [앱 스토어](https://apps.apple.com/kr/app/뉴젯-newzet/id6581484791)에서 만나보실 수 있습니다.
@@ -57,9 +57,9 @@ Gmail로 받아본 뉴스레터를 우리 서비스로 옮기기 위해서는 �
 위와 같이 권한을 잘 받아 구글 메일을 활용하여 서비스에서 구글 메일과 연동하여 뉴스레터를 잘 볼 수 있도록 구축을 완료했다! 그러나 배포를 위해 심사를 맡기면서 문제가 생겼는데...
 
 <div style="display: flex; justify-content: space-between; gap: 10px">
-  <img src="../assets/post-images/newzet/gmail-newzet-app-1.png" />
-  <img src="../assets/post-images/newzet/gmail-newzet-app-2.png" />
-  <img src="../assets/post-images/newzet/gmail-filter.png"   style="object-fit: contain;"/>
+  <img alt="구글 연동 완료 1" src="../assets/post-images/newzet/gmail-newzet-app-1.png" />
+  <img alt="구글 연동 완료 2" src="../assets/post-images/newzet/gmail-newzet-app-2.png" />
+  <img alt="구글 연동 완료 3" src="../assets/post-images/newzet/gmail-filter.png"   style="object-fit: contain;"/>
 </div>
 
 
@@ -75,8 +75,8 @@ Gmail로 받아본 뉴스레터를 우리 서비스로 옮기기 위해서는 �
 ### 구글 OAuth 요구사항 1: 이용약관 및 개인정보 처리 방침을 뉴젯 홈페이지에 기재할 것
 
 <div style="display: flex; justify-content: space-between; gap: 10px">
-  <img src="../assets/post-images/newzet/google-oauth-1.png"  style="object-fit: contain;" />
-  <img src="../assets/post-images/newzet/google-oauth-2.png" />
+  <img alt="요구사항 1" src="../assets/post-images/newzet/google-oauth-1.png"  style="object-fit: contain;" />
+  <img alt="로그인 화면" src="../assets/post-images/newzet/google-oauth-2.png" />
 </div>
 
 구글 인증 심사를 넣은 바로 다음 날 아침, 뉴젯의 이용약관 및 개인정보 처리 방침을 공개적으로 접근 가능한 곳에 기재할 것을 요청받았다. 구글 로그인 시 위 이미지와 같이 이용약관과 개인 정보 처리 방침에 대한 링크를 볼 수 있는데, 이것에 대한 피드백 같았다.
